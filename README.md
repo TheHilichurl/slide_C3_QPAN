@@ -16,73 +16,62 @@
 
 ---
 
-## 📖 GIỚI THIỆU CHUYÊN ĐỀ
+## 🎨 HỆ THỐNG THIẾT KẾ ĐA DẠNG BỐ CỤC THEO NỘI DUNG (HYBRID DESIGN)
 
-Bộ bài giảng điện tử tương tác được xây dựng nhằm phục vụ công tác học tập, nghiên cứu môn học **Giáo dục Quốc phòng & An ninh (GDQP-AN)** với chuyên đề trọng tâm: **Hiểu biết chung về các Quân, Binh chủng trong Quân đội nhân dân Việt Nam**.
+Bộ slide được thiết kế phân tầng bố cục tinh tế theo từng phần nội dung nhằm tối ưu hóa trải nghiệm thị giác và truyền tải kiến thức sống động:
 
-### ✨ Đặc Điểm Thiết Kế & Quy Chuẩn Kỹ Thuật
-1. **Cỡ chữ chuẩn trình chiếu 25px**: Toàn bộ nội dung phân tích, đề mục, thẻ tính năng và danh sách bullet point được tối ưu ở mức **25px**, khoảng cách dòng 1.5, tạo độ thoáng và tương phản cao, chống mỏi mắt cho người theo dõi từ xa.
-2. **Bộ nhận diện Cam & Xanh Cobalt**:
-   - **Xanh Cobalt (`#003882` / `#0047AB`)**: Tượng trưng cho kỷ luật, chiều sâu và sức mạnh của Quân đội nhân dân Việt Nam.
-   - **Cam năng động (`#EA580C` / `#FF7A00`)**: Màu sắc đặc trưng của Đại học Đại Nam, dùng để nhấn mạnh các từ khóa, mốc lịch sử, chỉ số quan trọng và Slogan thương hiệu.
-3. **100% Tư liệu ảnh Quân sự Việt Nam**: Tuyệt đối không dùng ảnh AI hay ảnh nước ngoài không liên quan; sử dụng toàn bộ hình ảnh thực tế của QĐNDVN (Duyệt binh Ba Đình, tàu ngầm Kilo, tiêm kích Su-30MK2, tên lửa S-300, tăng thiết giáp, công binh bắc cầu phao...).
-4. **Phân bổ 25 Slide khoa học (Không nhồi nhét)**:
-   - Các nội dung dài như lịch sử các thời kỳ, cải cách quân sự theo **Thông tư 83/2025/TT-BQP**, cơ cấu và vũ khí khí tài của Quân chủng Hải quân, Phòng không - Không quân, nguyên tắc hiệp đồng tác chiến đều được chia tách thành các slide chuyên biệt mạch lạc.
+1. **Nội Dung 1 (Phần I - Khái Quát Chung Về QĐNDVN • Slide 03–09)**:  
+   👉 **Ứng dụng Mẫu Gốc SlideA3A4**: Bố cục 2 cột kinh điển, cột trái phân tích luận điểm cốt lõi với thẻ nhận diện nổi bật, cột phải tích hợp ảnh tư liệu lịch sử Việt Nam chất lượng cao (`vn-hung-temple.jpg`, `vn-military-forces.jpg`, `vn-ba-dinh.jpg`...) cùng huy hiệu và thẻ giải thích.
 
----
+2. **Nội Dung 2 (Phần II - Quân Chủng Hải Quân & PK-KQ • Slide 10–13)**:  
+   👉 **Ứng dụng Mẫu 06 (Magazine Editorial Masthead)**: Dòng Masthead báo chí quân sự cao cấp với Logo Đại Nam, đường kẻ Cobalt 4px, lưới 3 cột hiện đại với Hero Card trung tâm phóng to $1.02\times$ phát sáng viền Cam Đại Nam tôn vinh khí tài răn đe (Tàu ngầm Kilo 636, Tàu Gepard 3.9, Tiêm kích Su-30MK2, Tên lửa S-300).
 
-## 📑 MỤC LỤC 25 SLIDE NỘI DUNG
+3. **Nội Dung 3 (Phần III - 6 Binh Chủng Chủ Lực Lục Quân • Slide 14–19)**:  
+   👉 **Ứng dụng Mẫu 14 (Stepped Command Pyramid)**: Cấu trúc kim tự tháp chỉ huy 3 bậc thang phân cấp:
+   - **Tầng Đỉnh (Chiến lược)**: Truyền thống vẻ vang & lời dạy của Bác ("Chân đồng vai sắt", "Mở đường thắng lợi"...).
+   - **Tầng Giữa (Chiến dịch)**: Vị trí hỏa lực, phương thức tác chiến đột kích và vai trò then chốt.
+   - **Tầng Đáy (Chiến thuật)**: Hệ thống các lữ đoàn chủ lực và trang bị khí tài thực chiến chi tiết.
 
-| Slide | Nội dung chi tiết |
-| :---: | :--- |
-| **01** | **Trang Tiêu Đề (Hero Cover):** Tên chuyên đề, Logo DNU, Slogan, Đơn vị Tiểu đội 1 - Trung đội 1 - Đại đội 6 |
-| **02** | **Nội Dung Tổng Quan (Mục Lục):** 5 Phần lớn cấu thành bài báo cáo |
-| **03** | **Truyền Thống Quân Sự Dân Tộc:** Lịch sử nghìn năm, tư tưởng "Dựng nước đi đôi với giữ nước", "Giữ nước từ khi nước chưa nguy" |
-| **04** | **Lịch Sử Hình Thành (1944 - 1954):** 34 chiến sĩ Đội VNTTGPQ, CMT8 1945, Chiến thắng Điện Biên Phủ 1954 |
-| **05** | **Kháng Chiến Chống Mỹ & Hiện Đại (1954 - Nay):** Điện Biên Phủ trên không 1972, Đại thắng 1975, Quân đội tinh gọn mạnh |
-| **06** | **Ba Chức Năng Cơ Bản:** Đội quân chiến đấu, Đội quân công tác, Đội quân lao động sản xuất |
-| **07** | **Cơ Cấu Cấp Chiến Lược Bộ Quốc Phòng:** BQP, Bộ Tổng Tham mưu, Tổng cục Chính trị và 3 Tổng cục chức năng |
-| **08** | **Cơ Cấu Lực Lượng & BTL Chuyên Trách:** 7 Quân khu, Quân đoàn 12, Quân đoàn 34, Bộ đội Biên phòng, Cảnh sát biển, BTL Tác chiến mạng |
-| **09** | **Cải Cách Quân Sự Địa Phương (Thông tư 83/2025/TT-BQP):** Chính quyền 2 cấp, Ban Chỉ huy Phòng thủ khu vực, tinh gọn DQTV |
-| **10** | **Quân Chủng Hải Quân - Vị Trí & Tổ Chức:** 07/05/1955, 5 Vùng Hải quân, 5 Binh chủng cấu thành |
-| **11** | **Quân Chủng Hải Quân - Khí Tài & Năng Lực:** Tàu ngầm Kilo 636, Tàu Gepard 3.9, Tên lửa bờ Bastion-P, Không quân HQ |
-| **12** | **Quân Chủng PK - KQ - Vị Trí & Tổ Chức:** 22/10/1963, 6 Sư đoàn Phòng không, 3 Sư đoàn Không quân, Lữ đoàn 918 |
-| **13** | **Quân Chủng PK - KQ - Khí Tài & Thế Trận:** Tiêm kích Su-30MK2, Tên lửa S-300PMU1 & Spyder, Radar 36D6, Pháo cao xạ |
-| **14** | **Binh Chủng Pháo Binh - Tên Lửa:** "Chân đồng, vai sắt, đánh giỏi, bắn trúng", hỏa lực mặt đất chủ yếu, Lữ đoàn 490 |
-| **15** | **Binh Chủng Tăng Thiết Giáp:** Lực lượng đột kích quan trọng, hỏa lực mạnh, cơ động cao, Lữ đoàn 201, 215 |
-| **16** | **Binh Chủng Đặc Công:** Lối đánh luồn sâu đánh hiểm, 3 thành phần: Đặc công bộ, Đặc công nước, Đặc công biệt động |
-| **17** | **Binh Chủng Công Binh:** Cờ Bác Hồ tặng "Mở đường thắng lợi", bảo đảm công trình, mở đường, rà phá bom mìn |
-| **18** | **Binh Chủng Hóa Học:** Phòng chống vũ khí hủy diệt lớn, súng phun lửa, màn khói ngụy trang, xử lý sự cố môi trường |
-| **19** | **Binh Chủng Thông Tin Liên Lạc:** Dây thần kinh huyết mạch chỉ huy toàn quân, bảo mật cơ yếu, tác chiến vô tuyến |
-| **20** | **Nguyên Tắc Hiệp Đồng Tác Chiến:** Lấy hành động tác chiến của Binh chủng hợp thành làm trung tâm |
-| **21** | **Phương Pháp Tổ Chức & Duy Trì:** 3 Phương pháp của người chỉ huy; quy trình duy trì và nối lại khi bị gián đoạn |
-| **22** | **Hiệp Đồng Tác Chiến Đặc Thù:** Phối hợp Không quân - Hải quân, Đổ bộ đường không, Đổ bộ đường biển |
-| **23** | **Tổng Kết Cốt Lõi & Ý Nghĩa Thực Tiễn:** 3 bài học lớn và trách nhiệm sinh viên thế hệ trẻ "Học để thay đổi" |
-| **24** | **Hệ Thống Câu Hỏi Ôn Tập GDQP-AN:** 5 câu hỏi trọng tâm giáo trình có tích hợp tương tác mở gợi ý đáp án |
-| **25** | **Trang Kết Thúc (Lời Cảm Ơn):** Lời tri ân Giảng viên, thông điệp bảo vệ Tổ quốc, tập thể Tiểu đội 1 |
+4. **Phần IV & Tổng Kết (Slide 20–25)**:  
+   Nguyên tắc hiệp đồng lấy binh chủng hợp thành làm trung tâm, 3 phương pháp chỉ huy, hệ thống câu hỏi ôn tập nghiên cứu và lời kết trang trọng.
 
 ---
 
-## 🎮 HƯỚNG DẪN ĐIỀU KHIỂN & PHÍM TẮT
-
-- **`Phím mũi tên sang phải (→)` / `Phím cách (Space)` / `PageDown`**: Chuyển slide tiếp theo.
-- **`Phím mũi tên sang trái (←)` / `PageUp`**: Quay về slide trước.
-- **`F`**: Bật / Tắt chế độ Toàn màn hình (Full Screen Presentation).
-- **`G`**: Bật cửa sổ xem danh sách thumbnail toàn bộ 25 slide để click nhảy nhanh.
-- **`Home` / `End`**: Về ngay slide bìa đầu tiên / Đến slide kết thúc.
-- **`?`**: Bật khung trợ giúp phím tắt nhanh.
-- **Thanh HUD nổi góc dưới**: Hỗ trợ đầy đủ các nút bấm chuột (Trước / Sau / Toàn màn hình / Xem lưới / Trợ giúp).
-- **Đồng hồ bấm giờ**: Tự động tính thời gian thuyết trình thực tế theo định dạng `MM:SS` ở góc chân trang.
+### ✨ Quy Chuẩn Kỹ Thuật Đạt Chuẩn
+- **Cỡ chữ chuẩn trình chiếu $\ge 25\,\text{px}$** cho toàn bộ nội dung body, line-height 1.45–1.5.
+- **Bộ nhận diện Cam DNU (`#EA580C` / `#FF7A00`) & Xanh Cobalt (`#003882` / `#00224F`)**.
+- **100% Ảnh tư liệu thực tế của Quân đội nhân dân Việt Nam** (Không dùng ảnh AI, không dùng ảnh nước ngoài).
+- **Căn giữa tuyệt đối**: Khung 16:9 ($1920 \times 1080\,\text{px}$) với `transform: translate(-50%, -50%)`, cơ chế co giãn linh hoạt theo kích thước màn hình.
+- **Điều hướng tiện lợi**: Phím mũi tên $\leftarrow$ $\rightarrow$, thanh tiến trình trên cùng (Top Progress Bar), phím F toàn màn hình.
 
 ---
 
-## 🛠️ CÔNG NGHỆ SỬ DỤNG
-- **HTML5 Semantic & CSS3 (Custom Design Tokens, Flexbox, Grid, Glassmorphism)**
-- **JavaScript (Vanilla Navigation Engine, Auto Viewport 16:9 Scaler, Presentation Timer)**
-- **Vector Icons**: Lucide Icons & Font Awesome
-- **Typography**: Plus Jakarta Sans & Be Vietnam Pro (Google Fonts)
-- **Deployment**: GitHub Pages (Static Hosting)
+## 📑 MỤC LỤC CHI TIẾT 25 SLIDE
 
----
-
-*Bản quyền nội dung học tập thuộc về Bộ môn Giáo Dục Quốc Phòng & An Ninh — Trường Đại học Đại Nam.*
+| Slide | Phong Cách Bố Cục | Nội Dung Trình Bày |
+| :---: | :---: | :--- |
+| **01** | **Hero Cover** | Trang bìa chính thức: Tiêu đề bài giảng, Đơn vị Tiểu đội 1 - Trung đội 1 - Đại đội 6 |
+| **02** | **Agenda Grid** | Mục lục 4 phần lớn và định hướng nghiên cứu |
+| **03** | **Mẫu Gốc SlideA3A4** | Truyền thống quân sự: "Dựng nước đi đôi với giữ nước", "Giữ nước từ khi nước chưa nguy" |
+| **04** | **Mẫu Gốc SlideA3A4** | Lịch sử hình thành: 34 chiến sĩ Đội VNTTGPQ 1944, Điện Biên Phủ 1954 |
+| **05** | **Mẫu Gốc SlideA3A4** | Kháng chiến chống Mỹ: Điện Biên Phủ trên không 1972, Đại thắng mùa Xuân 1975 |
+| **06** | **Mẫu Gốc SlideA3A4** | Ba chức năng cơ bản: Đội quân chiến đấu, công tác, lao động sản xuất |
+| **07** | **Mẫu Gốc SlideA3A4** | Cơ cấu cấp chiến lược: BQP, Bộ Tổng Tham mưu, Tổng cục Chính trị, 3 Tổng cục |
+| **08** | **Mẫu Gốc SlideA3A4** | Lực lượng tác chiến: 7 Quân khu, Quân đoàn 12, Quân đoàn 34, BĐBP, CSB, BTL 86 |
+| **09** | **Mẫu Gốc SlideA3A4** | Đột phá địa phương: Ban Chỉ huy Phòng thủ khu vực theo Thông tư 83/2025/TT-BQP |
+| **10** | **Mẫu 06 Magazine** | Quân chủng Hải quân: Vị trí nòng cốt bảo vệ biển đảo & Hệ thống 5 Vùng Hải quân |
+| **11** | **Mẫu 06 Magazine** | Quân chủng Hải quân: 5 Binh chủng cấu thành, Tàu ngầm Kilo 636, Tên lửa bờ Bastion |
+| **12** | **Mẫu 06 Magazine** | Quân chủng PK - KQ: Sứ mệnh canh giữ vùng trời & Hệ thống 6 Sư đoàn PK, 3 Sư đoàn KQ |
+| **13** | **Mẫu 06 Magazine** | Quân chủng PK - KQ: Lưới lửa tên lửa S-300PMU1, Tiêm kích Su-30MK2, Radar 3 tầng |
+| **14** | **Mẫu 14 Kim Tự Tháp** | Binh chủng Pháo binh - Tên lửa: "Chân đồng, vai sắt", hỏa lực mặt đất chủ yếu |
+| **15** | **Mẫu 14 Kim Tự Tháp** | Binh chủng Tăng Thiết giáp: Quả đấm thép đột kích chiến dịch, Lữ đoàn 201, 215 |
+| **16** | **Mẫu 14 Kim Tự Tháp** | Binh chủng Đặc công: "Đặc biệt tinh nhuệ, đánh hiểm thắng lớn", 3 thành phần |
+| **17** | **Mẫu 14 Kim Tự Tháp** | Binh chủng Công binh: "Mở đường thắng lợi", bắc cầu phao PMP, rà phá bom mìn |
+| **18** | **Mẫu 14 Kim Tự Tháp** | Binh chủng Hóa học: Phòng chống vũ khí hủy diệt lớn CBRN, súng phun lửa, màn khói |
+| **19** | **Mẫu 14 Kim Tự Tháp** | Binh chủng Thông tin liên lạc: "Kịp thời, chính xác, bí mật, an toàn", mạch máu 24/7 |
+| **20** | **Mẫu Hiệp Đồng** | Nguyên tắc hiệp đồng: Lấy hành động Binh chủng hợp thành làm trung tâm |
+| **21** | **Mẫu Hiệp Đồng** | Ba phương pháp hiệp đồng tác chiến của người chỉ huy & cơ chế duy trì |
+| **22** | **Mẫu Hiệp Đồng** | Hiệp đồng tác chiến đặc thù: Không quân - Hải quân, Đổ bộ đường không & đường biển |
+| **23** | **Card Matrix** | Tổng kết cốt lõi: 4 bài học lớn về xây dựng quân đội tinh, gọn, mạnh |
+| **24** | **Quiz Cards** | Hệ thống 5 câu hỏi ôn tập, thảo luận nghiên cứu trọng tâm |
+| **25** | **Closing Cover** | Lời kết trang trọng, lời cảm ơn và thông tin Tiểu Đội 1 - Trung Đội 1 - Đại Đội 6 |
